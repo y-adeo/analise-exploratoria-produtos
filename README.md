@@ -1,4 +1,4 @@
-# analise-exploratoria-produtos
+# exploratory-data-analysis
 
-Análise Exploratória
-P.S.: Base de dados com valores fictícios
+Exploratory Analysis
+P.S.: Database with fictitious information
